@@ -66,4 +66,3 @@ The main goal of Plantify AI is to provide a low-cost, intelligent farming assis
 
 ---
 
-## 📂 Project Structure (Optional Example)
