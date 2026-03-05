@@ -111,13 +111,6 @@ The primary goal of **Plantify AI** is to develop a **low-cost intelligent agric
 
 ---
 
-# 🌍 Future Improvements
-
-- Mobile application integration
-- Cloud-based data storage
-- Advanced AI disease detection models
-- Automated irrigation system
-- Real-time farmer alert system
 
 ---
 
@@ -129,6 +122,4 @@ Computer Science & Engineering Student
 GitHub:  
 https://github.com/FatemaYesminMaroya
 
----
 
-⭐ If you like this project, consider giving it a **star on GitHub**!
